@@ -7,5 +7,5 @@ The relevant Cilium issue is [here](https://github.com/cilium/cilium/issues/3450
 ## Deployment
 
 ```
-kubectl apply -f https://raw.githubusercontent.com/okamidash/ARP-DOKS-FIX/main/daemonset.yaml
+kubectl apply -f https://raw.githubusercontent.com/okamidash/arp-doks-fix/main/daemonset.yaml
 ```
