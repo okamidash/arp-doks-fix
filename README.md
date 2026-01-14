@@ -7,6 +7,7 @@ The relevant Cilium issue is [here](https://github.com/cilium/cilium/issues/3450
 ## Note
 
 I am a member of the DigitalOcean Kubernetes team. This solution has been tested and works without needing to update the cluster to a newer version.
+The repo is also available at: https://github.com/digitalocean/arp-doks-fix
 
 ## Deployment
 
